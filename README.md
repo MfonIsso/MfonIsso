@@ -1,17 +1,27 @@
-## Hi there 👋
-Im Mfoniso 
-A cybersecurity Analyst
-<!--
-**MfonIsso/MfonIsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mfoniso! 
 
-Here are some ideas to get you started:
+<CYBERSECURITY'>www.linkedin.com/in/mfonisoobonguko> Cybersecurity Analyst, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Digital Forensics 
-- 👯 I’m looking to collaborate on cybersecurity-related projects 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+👨‍💻 CyberSecurity Projects:
+
+
+-
+- 
+  - 
+- Bash Scripting
+  -
+- PHP
+  - 
+- Python
+  -
+- SQL
+
+ 🤳 Connect with me:
+
+
+
+[Mfoniso Obonguko | LinkedIn][linkedin]
+
+
+[linkedin]: www.linkedin.com/in/mfonisoobonguko
+
