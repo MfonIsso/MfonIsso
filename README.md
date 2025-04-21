@@ -6,6 +6,7 @@ Hi, I'm Mfoniso!
 - Configuring SSH for secure login: 
 - Vulnerability assessments using Nessus 
 - IAM
+- Image extraction from network capture 
   
   <h1> scripting </h1>
    <h3> Bash </h3>
@@ -19,8 +20,8 @@ Hi, I'm Mfoniso!
 - SQL
 
 <h2> certifications </h2>
-- Google cybersecurity professional [https://www.coursera.org/account/accomplishments/specialization/FUNERIRPUGWU]
-
+- [Google cybersecurity professional 
+](https://www.coursera.org/account/accomplishments/specialization/FUNERIRPUGWU)
  🤳 Connect with me:
 
 
