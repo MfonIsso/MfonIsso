@@ -11,7 +11,6 @@ Hi, I'm Mfoniso!
   <h1> scripting </h1>
    <h3> Bash </h3>
     -Simple automation using Bash Scripting
-  <h3>Powershell</h3>
   
   <h1> Programming </h1>
   <h3> PHP </h3> 
