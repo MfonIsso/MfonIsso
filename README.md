@@ -19,8 +19,7 @@ Hi, I'm Mfoniso!
 - SQL
 
 <h2> certifications </h2>
-- [Google cybersecurity professional 
-](https://www.coursera.org/account/accomplishments/specialization/FUNERIRPUGWU)
+- [Google cybersecurity professional](https://www.coursera.org/account/accomplishments/specialization/FUNERIRPUGWU) 
  🤳 Connect with me:
 
 
